@@ -12,7 +12,7 @@ I am a Data Science and Financial Analytics focused technologist with a strong i
 
 I enjoy building tools that transform complex datasets into actionable insights — ranging from optimization models to interactive financial dashboards. As I begin my role as a **Global Technology Analyst at Bank of America (NYC Metro Area)**, I am actively preparing to transition toward **quantitative development, trading operations engineering, data science, and related analytical engineering roles**.
 
-🇺🇸 Previously served **6 years in the Air National Guard (ANG)**, developing strong discipline, adaptability, and mission-focused problem solving.
+Previously served **6 years in the Air National Guard (ANG)**, developing strong discipline, adaptability, and mission-focused problem solving.
 
 ---
 

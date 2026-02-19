@@ -75,6 +75,6 @@ My long-term goal is to operate closer to real trading infrastructure, combining
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/jonatanalcala  
-- LinkedIn: [*(LinkedIn)* ](https://www.linkedin.com/in/jonatan-alcala/) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonatan-alcala/) 
 
 ---

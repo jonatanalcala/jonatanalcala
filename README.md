@@ -1,8 +1,11 @@
 # Hi, I'm Jonatan Alcala 👋  
 
 🎯 Incoming **Global Technology Analyst @ Bank of America** — NYC Metro Area  
+
 🎓 B.S. in Data Science — Concentration in Financial Data Analytics | Minor in Finance
-💻 Data Science | Quantitative Systems | Trading Technology  
+
+💻 Data Science | Quantitative Systems | Trading Technology 
+
 🚀 Aspiring **Quantitative Developer / Trading Operations Engineer / Quantitative Analyst**  
 
 ---

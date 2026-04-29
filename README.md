@@ -16,7 +16,7 @@ I'm a Global Technology Analyst at Bank of America (NYC Metro), working at the i
 
 At BofA, I work on technology systems that support global markets operations — giving me direct exposure to the kind of production infrastructure, data pipelines, and trading-adjacent engineering that TradOps roles are built around. Outside of work, I'm systematically building the systems-level skill set that elite prop firms demand: **Linux internals, Bash scripting, TCP/UDP networking, distributed systems design, FIX protocol, and production observability**.
 
-Previously served **6 years in the Air National Guard (ANG)** as a **3D1X1 Client Systems Specialist** — responsible for the deployment, configuration, and maintenance of enterprise IT systems supporting mission-critical operations. Work spanned endpoint management, network troubleshooting, hardware and software diagnostics, and infrastructure support across both
+Previously served **6 years in the Air National Guard (ANG)** in **Cyber Defense Operations** — responsible for the deployment, configuration, and maintenance of enterprise IT systems supporting mission-critical operations. Work spanned endpoint management, network troubleshooting, hardware and software diagnostics, and infrastructure support across both
 classified and unclassified environments. Gained hands-on exposure to network infrastructure — diagnosing connectivity issues, working with switches and routers, and supporting systems where downtime was not an option.
 
 ---

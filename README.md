@@ -6,7 +6,7 @@
 
 💻 Linux | Python | SQL | Networking | Trading Infrastructure
 
-🚀 Aspiring **Trading Operations Engineer / Trading Desk Operations Engineer**  
+🚀 Aspiring **Trading Operations Engineer / Trading Infrastructure Engineer / Trading Desk Operations Engineer**  
 
 ---
 
